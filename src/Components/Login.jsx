@@ -12,7 +12,7 @@ function Login() {
     }
   return (
     <div className='form'>
-      <h2>Login</h2>
+      <h1>Login</h1>
       <form onSubmit={handleLogin}>
         <div>
             <label>Email: </label>

@@ -12,7 +12,7 @@ function Register() {
     }
   return (
     <div className='form'>
-      <h2>Register</h2>
+      <h1>Register</h1>
       <form onSubmit={handleSubmit}>
         <div>
             <label>Email: </label>
