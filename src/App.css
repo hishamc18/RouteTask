@@ -58,6 +58,7 @@ button{
   align-self: center;
   background-color:brown;
   color: white;
+  padding: 6px;
 }
 
 body{
